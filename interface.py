@@ -2,7 +2,7 @@ import urllib
 import PyPDF2
 import requests
 from urllib.request import urlretrieve
-from TF_IDF import train_all_models,predict_class
+from classify import train_all_models,predict_class
 from word2vec import train_word2vec,predict_class_word2vec
 
 
