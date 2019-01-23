@@ -18,6 +18,7 @@ Instrucions for running the code:
  
  - modify the paths of the used data files according to your environment.
  - uncomment the following lines to see the results using features set other than word2vec: 82, 97, 108
+ - run the code and enter a PDF link for an ACM doeument and the program will show the results of classification
  
  Notice: all the necessary data files exist in dataset folder
  
