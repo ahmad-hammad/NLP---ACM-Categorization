@@ -17,7 +17,7 @@ Instrucions for running the code:
  https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
  
  - modify the paths of the used data files according to your environment.
- - uncomment the following line to see the results using features set other than word2vec: 82, 97, 108
+ - uncomment the following lines to see the results using features set other than word2vec: 82, 97, 108
  
  Notice: all the necessary data files exist in dataset folder
  
